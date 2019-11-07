@@ -202,7 +202,6 @@ class App extends React.Component {
                   onUpdateStatus={this.onUpdateStatus}
                   onDelete={this.onDelete}
                   onUpdate={this.onUpdate}
-                  tasks={tasks}
                   onFilter={this.onFilter}
                 />
               </div>
